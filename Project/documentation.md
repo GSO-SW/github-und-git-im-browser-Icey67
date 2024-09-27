@@ -5,8 +5,9 @@ Der gegebene Code ist ein einfaches Programm, geschrieben in C#. Seine Hauptfunk
 ### Code:
 ```csharp
 Console.WriteLine("Hello World");
+Console.WriteLine("Mein neues Feature");
 ```
-[Link zur code hier](https://github.com/GSO-SW/github-und-git-im-browser-Icey67/blob/68ac79784e2d41719df1506754b40997f56d84e9/Project/hello-world.cs)
+[Link zum Code hier](https://github.com/GSO-SW/github-und-git-im-browser-Icey67/blob/c2e1c47143f66609c44f2dcc83a0848ce835230a/Project/hello-world.cs)
 
 ### Details:
 + **'Console'**: Dies ist eine eingebaute Klasse in der C#-Sprache, die Teil des System-Namensraums ist. Sie bietet Funktionen, um mit der Konsole des Computers zu interagieren.
@@ -20,4 +21,5 @@ Wenn dieser Code ausgeführt wird, lautet die Ausgabe:
 
 ```csharp
 Hello World
+Mein neues Feature
 ```
